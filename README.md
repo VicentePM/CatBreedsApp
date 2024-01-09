@@ -69,7 +69,3 @@ CatBreedsApp es una aplicación Android desarrollada en Kotlin que permite a los
 ## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias, por favor, abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
